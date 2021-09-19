@@ -1,6 +1,7 @@
 # School-Management-System
-School Management System is a program that lets you create account as either a school registrar (or an admin as we labeled it there) and a teacher. With your particular account info,
-you can sign in and manage a school according to your user previelage. 
+School Management System is a program that lets you create account as either a school registrar (or an admin as we labeled it there) or a teacher. 
+With your particular account info, you can sign in and manage a school according to your user previelage. 
+
 1. If you are a registrar, you can register new students and see the list of students in any of the grades and sections in the school you manage.
 2. If you are a teacher,  you can grade your students, see their list and also roster.
 
